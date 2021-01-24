@@ -1,0 +1,11 @@
+convertdate==2.2.1
+holidays==0.10.2
+korean-lunar-calendar==0.2.1
+numpy==1.19.0
+pandas==1.0.5
+PyMeeus==0.3.7
+python-dateutil==2.8.1
+pytz==2020.1
+scipy==1.5.0
+six==1.15.0
+toml==0.10.1
